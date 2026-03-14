@@ -90,7 +90,7 @@ git clone https://github.com/bI3ear/Customer_Shopping_Behavior_Analysis.git
 cd Customer_Shopping_Behavior_Analysis
  
 # Install required libraries
-pip install pandas matplotlib seaborn jupyter
+pip install pandas jupyter
 ```
  
 ### Run the Notebook | รันโน้ตบุ๊ก
